@@ -1,0 +1,9 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\loja-compreaqui\Projeto\loja-compreaqui\src\LojaCompreAqui.Business\bin\Debug\netcoreapp3.1\LojaCompreAqui.Business.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\loja-compreaqui\Projeto\loja-compreaqui\src\LojaCompreAqui.Business\bin\Debug\netcoreapp3.1\LojaCompreAqui.Business.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\loja-compreaqui\Projeto\loja-compreaqui\src\LojaCompreAqui.Business\bin\Debug\netcoreapp3.1\LojaCompreAqui.Business.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\loja-compreaqui\Projeto\loja-compreaqui\src\LojaCompreAqui.Business\obj\Debug\netcoreapp3.1\LojaCompreAqui.Business.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\loja-compreaqui\Projeto\loja-compreaqui\src\LojaCompreAqui.Business\obj\Debug\netcoreapp3.1\LojaCompreAqui.Business.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\loja-compreaqui\Projeto\loja-compreaqui\src\LojaCompreAqui.Business\obj\Debug\netcoreapp3.1\LojaCompreAqui.Business.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\loja-compreaqui\Projeto\loja-compreaqui\src\LojaCompreAqui.Business\obj\Debug\netcoreapp3.1\LojaCompreAqui.Business.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\loja-compreaqui\Projeto\loja-compreaqui\src\LojaCompreAqui.Business\obj\Debug\netcoreapp3.1\LojaCompreAqui.Business.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\loja-compreaqui\Projeto\loja-compreaqui\src\LojaCompreAqui.Business\obj\Debug\netcoreapp3.1\LojaCompreAqui.Business.pdb
